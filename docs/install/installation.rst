@@ -1,42 +1,23 @@
-.. Lines starting with two dots are special commands. But if no command can be found, the line is considered as a comment
-
 =========================================================
 Installation
 =========================================================
 
-Note that there must be as many equals signs as title characters.
+There is no separate application to install Celsus. Celsus is one application and can be started by using `this link. <http://www>`_
+
 
 Requirements
 ==========================================
 
-Subtitles with dashes
----------------------
+Celsus works on Windows Operating Systems.
 
-You can  put text in *italic* or in **bold**, you can "mark" text as code with double backquote ``print()``.
+.. csv-table:: 
+   :header: "Operating System", "Action"
+   :widths: 20, 20
 
-Lists are as simple as in Markdown:
-
-- First item
-- Second item
-    - Sub item
-
-or
-
-* First item
-* Second item
-    * Sub item
-
-Tables are really easy to write:
-
-=========== ========
-Country     Capital
-=========== ========
-France      Paris
-Japan       Tokyo
-=========== ========
-
-More complex tables can be done easily (merged columns and/or rows) but I suggest you to read the complete doc for this :)
-
-There are multiple ways to make links:
-
-
+   "Windows XP", "John"
+   "Windows Vista SP2", "Not Supported"
+   "Windows 7 SP1", "Need to install .NET Framework 4.6.1"
+   "Windows 8", "Need to install .NET Framework 4.6.1"
+   "Windows 8.1", "Need to install .NET Framework 4.6.1"
+   "Windows 10", "Need to install .NET Framework 4.6.1"
+   "Windows 10 November Update and Later", "No need to install anything"
