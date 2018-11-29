@@ -11,9 +11,11 @@ You can install Celsus by using `this link. <http://www>`_
 Requirements
 ==========================================
 
-Celsus works on Windows Operating Systems.
+Celsus works on Windows Operating Systems and need .NET Framework 4.6.1 installed. There is not an easy way to understand if .NET Framework 4.6.1 is installed on your computer.
 
-.. csv-table:: 
+Windows Update automatically installs .NET Framework's latest version. Best way is trying to launch the application. If you don't have .NET Framework 4.6.1 installed it will give error and you can install .NET Framework 4.6.1 with using the link below.
+
+.. csv-table:: Supported Operating Systems
    :header: "Operating System", "Action"
    :widths: 20, 20
 
