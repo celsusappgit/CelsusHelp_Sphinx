@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'CelsusHelpSphinx'
+project = 'Celsus'
 copyright = '2018, Seneka'
 author = 'Seneka'
 

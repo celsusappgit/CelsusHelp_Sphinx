@@ -3,18 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to CelsusHelpSphinx's documentation!
+Welcome to Celsus Documentation
 ============================================
+
+Celsus simplifies software documentation by automating building, versioning, and hosting of your docs for you. Think of it as Continuous Documentation.
+
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   
+   first/whatiscelsus
+   install/installation
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
