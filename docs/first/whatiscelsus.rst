@@ -6,8 +6,6 @@ What Is Celsus
 
 Note that there must be as many equals signs as title characters.
 
-Short Answer
-==========================================
 
 Subtitles with dashes
 ---------------------
